@@ -848,8 +848,7 @@ body {
 //footer
 .footer {
   width: 100%;
-  height: auto;
-  border-bottom: 2px solid red;
+  max-height: 470px;
   &-wrapper {
     width: 100%;
     height: auto;
